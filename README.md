@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/luisrafael1207/luisrafael1207/blob/main/IMG-20240919-WA0019.jpg?raw=true" alt="Banner Luís Rafael" />
+  <img src="https://github.com/luisrafael1207/luisrafael1207/blob/main/file_00000000edac622faccad6a42bccd1b4%20(2).png?raw=true" alt="Banner Luís Rafael" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o Luís Rafael</h1>
@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Estudando-Redes%20Sem%20Fio-blue" />
 </p>
 
----
 
 ## 🧠 Sobre mim
 
@@ -25,7 +24,6 @@
 - 🧰 Formação militar no Corpo de Fuzileiros Navais (2015–2019)
 - 🟣 Atuando como Vendedor de Soluções na Meon Software (2025 - atual)
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -42,7 +40,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT-blue?style=flat-square&logo=raspberrypi&logoColor=white)
 
----
 
 ## 🚧 Projetos em Desenvolvimento
 
@@ -50,7 +47,6 @@
 - 💡 **Painel de Monitoramento com Docker + Prometheus**
 - 🔐 **Autenticação JWT com Node.js + MySQL**
 
----
 
 ## 💼 Experiência Profissional
 
@@ -59,7 +55,6 @@
 - 🏭 **ZM S.A.** – Operador Prensista *(2021 - 2024)*
 - ⚓ **Marinha do Brasil** – Fuzileiro Naval *(2015 - 2019)*
 
----
 
 ## 📚 Certificações e Cursos
 
@@ -71,7 +66,6 @@
 🏗️ Ponte rolante  
 🚜 Empilhadeira  
 
----
 
 ## 📚 Estou aprendendo
 
@@ -80,7 +74,6 @@
 - Integração Node.js + WebSocket  
 - Docker Swarm e Kubernetes básico  
 
----
 
 ## 🔧 Ferramentas que gosto de usar
 
@@ -88,7 +81,6 @@
 [![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker)](https://www.docker.com/)  
 [![Postman](https://img.shields.io/badge/API-Postman-orange?logo=postman)](https://www.postman.com/)  
 
----
 
 ## 😄 Curiosidades sobre mim
 
@@ -97,7 +89,6 @@
 - Gosto de criar paródias engraçadas 😄  
 - Tenho um Golden Retriever 🐶  
 
----
 
 ## 🤝 Apoio e Comunidade
 
@@ -110,7 +101,6 @@
 
 > “Transformando ideias em soluções reais com código aberto.”
 
----
 
 ## 📈 GitHub Stats
 
@@ -123,7 +113,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrafael1207&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🤝 Vamos colaborar?
 
@@ -135,7 +124,6 @@ Se você está envolvido com:
 
 ...me chama! Pode ser no GitHub, LinkedIn ou por e-mail mesmo.
 
----
 
 ## 📫 Contato
 
@@ -143,7 +131,6 @@ Se você está envolvido com:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contate--me-brightgreen?logo=whatsapp)](https://wa.me/5591992754632)  
 [![Email](https://img.shields.io/badge/Email-luisrafael12074811@gmail.com-red?logo=gmail)](mailto:luisrafael12074811@gmail.com)
 
----
 
 <p align="center">
   <b>Obrigado por visitar meu perfil!</b> 🙌<br/>

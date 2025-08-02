@@ -2,7 +2,7 @@
 <h3 align="center">💻 Estudante de Redes | Desenvolvedor Fullstack | Entusiasta em Segurança e IoT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F793&center=true&vCenter=true&width=440&lines=Estudante+no+IFC+Brusque;Desenvolvedor+Node.js+|+MySQL+|+JavaScript;Projetos+com+ESP32+e+IoT;Segurança+de+Redes+e+Monitoramento;Aberto+a+novas+oportunidades!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F793&center=true&vCenter=true&width=440&lines=Estudante+no+IFC+Brusque;Desenvolvedor+Node.js+e+MySQL;Programador+JavaScript+com+projetos+práticos;Projetos+com+ESP32+e+IoT;Segurança+de+Redes+e+Monitoramento;Aberto+a+novas+oportunidades!" />
 </p>
 
 ---

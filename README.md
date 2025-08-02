@@ -1,33 +1,51 @@
 <h1 align="center">Olá 👋, eu sou o Luís Rafael</h1>
-<h3 align="center">🎓 Estudante de Redes de Computadores | 💻 Desenvolvedor IoT | 🔐 Segurança da Informação</h3>
+<h3 align="center">💻 Estudante de Redes | Desenvolvedor Fullstack | Entusiasta em Segurança e IoT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D000&center=true&vCenter=true&width=500&lines=Estudante+no+IFC+-+Campus+Brusque;Projetos+com+ESP32%2C+Node.js+e+Docker;Segurança+em+Redes+e+Reconhecimento+Facial;Disponível+para+oportunidades!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F793&center=true&vCenter=true&width=440&lines=Estudante+no+IFC+Brusque;Desenvolvedor+Node.js+e+MySQL;Projetos+com+ESP32+e+IoT;Segurança+de+Redes+e+Monitoramento;Aberto+a+novas+oportunidades!" />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
-- 🎓 Cursando Tecnologia em Redes de Computadores - IFC Brusque
-- 💡 Interesse por IoT, Docker, Linux, Segurança e Backend
-- 🔭 Em desenvolvimento: Sistema de Reconhecimento Facial com OpenCV e Flask
-- 📫 Contato: **luisrafael12074811@gmail.com**
+
+- 🎓 Estudante de Tecnologia em Redes de Computadores (IFC - Brusque)
+- 🔐 Foco em segurança digital, monitoramento e controle de acesso
+- 🔧 Experiência prática com automação, IoT, servidores e redes
+- 🚀 Projetos com ESP32, Linux, scripts de monitoramento e backend com Node.js
+- 🧰 Formação militar no Corpo de Fuzileiros Navais (2015–2019)
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-blue?style=flat-square&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experiência Profissional
+
+- **Jacson Multimarcas** – Vendedor de Veículos *(2024 - atual)*  
+  Atendimento, negociação, financiamento e gestão de estoque digital.
+
+- **ZM S.A.** – Operador Prensista *(2021 - 2024)*  
+  Leitura de desenhos técnicos, metrologia e manutenção industrial.
+
+- **Marinha do Brasil** – Fuzileiro Naval *(2015 - 2019)*  
+  Missões operacionais, segurança e apoio logístico.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisrafael1207&show_icons=true&theme=tokyonight" alt="Luis GitHub stats" />
@@ -36,11 +54,28 @@
 
 ---
 
-## 🚀 Links importantes
-- 💼 [LinkedIn](https://www.linkedin.com/in/luisrafael1207)
-- 📁 Em breve: projetos públicos com backend e segurança 🚧
+## 🤝 Apoio e Comunidade
+
+🟣 Orgulhosamente apoiador da [Meon Software](https://github.com/Meon-Software)  
+🛠 Criando soluções reais com software livre, automação e desenvolvimento colaborativo.
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/134707961?s=200&v=4" alt="Meon Software Logo" width="100"/>
+</p>
+
+> “Transformando ideias em soluções reais com código aberto.”
 
 ---
 
-**Obrigado por visitar meu perfil!** 🙌  
-<sub>Atualizado em 2025</sub>
+## 📫 Contato
+
+- ✉️ Email: [luisrafael12074811@gmail.com](mailto:luisrafael12074811@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/luís-rafael-9376351b6](https://www.linkedin.com/in/lu%C3%ADs-rafael-9376351b6)
+- 🐙 GitHub: [github.com/luisrafael1207](https://github.com/luisrafael1207)
+
+---
+
+<p align="center">
+  <b>Obrigado por visitar meu perfil!</b> 🙌<br/>
+  <sub>Atualizado em 2025</sub>
+</p>

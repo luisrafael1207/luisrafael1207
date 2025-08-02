@@ -25,23 +25,40 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![YAML](https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-blue?style=flat-square&logo=raspberrypi&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-1488C6?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-blue?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
 
-## 💼 Experiência Profissional
+## 🚧 Projetos em Desenvolvimento
 
-- **Jacson Multimarcas** – Vendedor de Veículos *(2024 - atual)*  
-  Atendimento, negociação, financiamento e gestão de estoque digital.
+- 🎯 **Sistema de Reconhecimento Facial com Flask, OpenCV e PostgreSQL**  
+  Controle de acesso seguro usando aprendizado de máquina e interface web.
 
-- **ZM S.A.** – Operador Prensista *(2021 - 2024)*  
-  Leitura de desenhos técnicos, metrologia e manutenção industrial.
+- 💡 **Painel de Monitoramento de Infraestrutura com Docker + Prometheus**  
+  Monitoramento em tempo real de recursos e logs com alertas e dashboards.
 
-- **Marinha do Brasil** – Fuzileiro Naval *(2015 - 2019)*  
-  Missões operacionais, segurança e apoio logístico.
+- 🔐 **Autenticação JWT com Node.js + MySQL**  
+  API RESTful segura com middleware de autenticação e upload de fotos.
+
+---
+
+## 📚 Certificações e Cursos
+
+- 📜 Curso CCNA - Switching, Routing e Wireless Essentials (NetAcad)
+- 🛡 Segurança em Redes (IFC)
+- 📦 Docker e Containers - Fundamentos
+- 📘 Curso de Metrologia e Desenho Técnico
+
+---
+
+## 🧭 Filosofia de Trabalho
+
+> "Disciplina é o alicerce. Curiosidade é o combustível. Soluções simples resolvem grandes problemas."
 
 ---
 
@@ -52,6 +69,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisrafael1207&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisrafael1207&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🤝 Apoio e Comunidade
@@ -60,10 +81,23 @@
 🛠 Criando soluções reais com software livre, automação e desenvolvimento colaborativo.
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/134707961?s=200&v=4" alt="Meon Software Logo" width="100"/>
+  <img src="https://github.com/Meon-Software.png" alt="Meon Software Logo" width="120"/>
 </p>
 
 > “Transformando ideias em soluções reais com código aberto.”
+
+---
+
+## 🤝 Vamos colaborar?
+
+Gosto de trocar ideias e aprender em grupo!  
+Se você está envolvido com:
+- Projetos IoT
+- Segurança da Informação
+- Automação com Linux e Docker
+- Sistemas Web em Node.js
+
+...me chama! Pode ser no GitHub, LinkedIn ou por e-mail mesmo.
 
 ---
 

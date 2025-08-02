@@ -37,7 +37,7 @@
 ---
 
 ## 🚀 Links importantes
-- 💼 [LinkedIn](https://www.linkedin.com/in/luisrafael1207) *(edite se quiser)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/luisrafael1207)
 - 📁 Em breve: projetos públicos com backend e segurança 🚧
 
 ---

@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://github.com/luisrafael1207/luisrafael1207/blob/main/A_2D_digital_graphic_design_banner_introduces_Luís.png?raw=true" alt="Banner Luís Rafael" />
+  <img src="https://github.com/luisrafael1207/luisrafael1207/blob/main/IMG-20240919-WA0019.jpg?raw=true" alt="Banner Luís Rafael" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o Luís Rafael</h1>
-<h3 align="center">💻 Estudante de Redes | Vendedor na Meon Software | Desenvolvedor Fullstack | Entusiasta em Segurança e IoT Coodesenvolvedor do REMP </h3>
+<h3 align="center">💻 Estudante de Redes | Vendedor na Meon Software | Desenvolvedor Fullstack | Entusiasta em Segurança e IoT | Coodesenvolvedor do REMP</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F793&center=true&vCenter=true&width=440&lines=Estudante+no+IFC+Brusque;Vendedor+na+Meon+Software;Programador+JS+com+projetos+práticos;Projetos+com+ESP32+e+IoT;Segurança+de+Redes+e+Monitoramento;Aberto+a+novas+oportunidades!" />
 </p>

@@ -5,202 +5,126 @@
 <h1 align="center">Luís Rafael de Oliveira Cardoso</h1>
 
 <h3 align="center">
-Graduado em Redes de Computadores | Backend Developer | Infraestrutura e Segurança | IoT
+Graduado em Redes de Computadores | Backend Developer | Infraestrutura & Segurança | IoT
 </h3>
 
 <p align="center">
-Infraestrutura • Automação • Sistemas Web • Monitoramento • IoT
+  Infraestrutura • Automação • Sistemas Web • Monitoramento • IoT
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/luís-rafael-9376351b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:luisrafael12074811@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/5591992754632"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
 
-# 👨‍💻 Sobre
+## 👨‍💻 Sobre Mim
 
 Graduado em **Tecnologia em Redes de Computadores pelo IFC – Campus Brusque**.
 
-Tenho foco em **infraestrutura, segurança da informação, automação e desenvolvimento backend**, criando soluções que integram **redes, servidores e aplicações**.
+Sou um profissional focado na intersecção entre **infraestrutura, segurança da informação, automação e desenvolvimento backend**, criando soluções robustas que integram redes, servidores e aplicações de ponta a ponta.
 
-Possuo experiência prática com:
+### No dia a dia, tenho experiência prática com:
+*   🐧 **Administração de Sistemas:** Gerenciamento avançado de ambientes Linux.
+*   🐋 **DevOps & Containers:** Orquestração e empacotamento de serviços com Docker e Docker Compose.
+*   🚀 **Desenvolvimento Backend:** Construção de APIs modernas e escaláveis utilizando JavaScript e Node.js.
+*   📊 **Observabilidade:** Monitoramento contínuo de redes e servidores para garantir alta disponibilidade.
+*   🤖 **Hardware & IoT:** Automação de tarefas, criação de scripts e projetos integrados com ESP32.
 
-- Administração de sistemas Linux
-- Infraestrutura com Docker
-- Desenvolvimento backend com Node.js
-- Monitoramento de redes
-- Projetos IoT com ESP32
-- Automação de tarefas e scripts
-
-Também possuo formação militar como **Fuzileiro Naval da Marinha do Brasil**, experiência que fortaleceu disciplina, responsabilidade e capacidade de atuação em ambientes críticos.
+> Minha trajetória inclui formação militar como **Fuzileiro Naval da Marinha do Brasil**, uma vivência que consolidou valores de alta disciplina, adaptabilidade, responsabilidade e liderança em ambientes de missão crítica.
 
 ---
 
-# 🎯 Áreas de Interesse
+## 🛠 Stack Técnica
 
-- Infraestrutura de Redes
-- Segurança da Informação
-- Monitoramento de Sistemas
-- Backend Development
-- Automação com Linux
-- IoT e dispositivos embarcados
+### Desenvolvimento & Linguagens
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
 
----
+### Infraestrutura, Redes & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-# 🚀 Projetos
+### Bancos de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
-## Sistema de Reconhecimento Facial para Controle de Acesso
-
-Sistema de autenticação utilizando visão computacional.
-
-**Tecnologias**
-
-- OpenCV
-- Flask
-- PostgreSQL
-- Docker
-
-**Funcionalidades**
-
-- Cadastro de usuários com foto
-- Reconhecimento facial em tempo real
-- API para controle de acesso
-- Registro de eventos de autenticação
-
----
-
-## Painel de Monitoramento de Infraestrutura
-
-Dashboard para monitoramento de servidores e serviços.
-
-**Tecnologias**
-
-- Docker
-- Prometheus
-- Grafana
-
-**Recursos**
-
-- Monitoramento de CPU, memória e rede
-- Dashboards de infraestrutura
-- Visualização de métricas em tempo real
+### Internet das Coisas (IoT)
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E34F26?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+</p>
 
 ---
 
-## Sistema de Autenticação com Node.js
+## 🚀 Projetos em Destaque
 
-Sistema backend com autenticação segura.
+### 👁️ Sistema de Reconhecimento Facial para Controle de Acesso
+Plataforma inteligente de autenticação e segurança utilizando visão computacional.
+*   **Tech Stack:** Python, OpenCV, Flask, PostgreSQL, Docker.
+*   **Recursos:** Cadastro biométrico com foto, reconhecimento em tempo real, API dedicada para controle de acessos e logs de eventos.
 
-**Tecnologias**
+### 📊 Painel de Monitoramento de Infraestrutura
+Ambiente de alta performance voltado para a observabilidade de servidores e serviços.
+*   **Tech Stack:** Docker, Prometheus, Grafana.
+*   **Recursos:** Coleta de métricas de CPU, memória e tráfego de rede com alertas visuais em tempo real.
 
-- Node.js
-- Express
-- MySQL
-- JWT
-
-**Funcionalidades**
-
-- Registro de usuários
-- Login com token
-- Proteção de rotas
-- Upload de imagens
-
----
-
-# 🛠️ Stack Técnica
-
-## Backend
-- Node.js
-- Express
-- REST APIs
-- JWT Authentication
-
-## Banco de Dados
-- MySQL
-- PostgreSQL
-- Modelagem de dados
-
-## Infraestrutura
-- Linux
-- Docker
-- Docker Compose
-- Git
-
-## Redes
-- TCP/IP
-- Monitoramento de redes
-- Conceitos de segurança
-
-## IoT
-- ESP32
-- Automação
-- Integração com APIs
+### 🔑 Sistema de Autenticação com Node.js
+Ecossistema backend seguro projetado para o gerenciamento de usuários de ponta a ponta.
+*   **Tech Stack:** Node.js, Express, MySQL, JWT.
+*   **Recursos:** Login baseado em tokens criptografados, middlewares para proteção de rotas e upload seguro de arquivos/imagens.
 
 ---
 
-# 💼 Experiência Profissional
+## 💼 Experiência Profissional
 
-**Meon Software**  
-Vendedor de Soluções Digitais  
-2025 – atual
-
-**Jacson Multimarcas**  
-Vendedor de Veículos  
-2024 – atual
-
-**ZM S.A.**  
-Operador Prensista  
-2021 – 2024
-
-**Marinha do Brasil**  
-Fuzileiro Naval  
-2015 – 2019
+*   **Meon Software** | Vendedor de Soluções Digitais *(2025 – Atual)*
+*   **Jacson Multimarcas** | Vendedor de Veículos *(2024 – Atual)*
+*   **ZM S.A.** | Operador Prensista *(2021 – 2024)*
+*   **Marinha do Brasil** | Fuzileiro Naval *(2015 – 2019)*
 
 ---
 
-# 📚 Certificações
+## 📚 Certificações & Educação
 
-- CCNA Switching, Routing and Wireless Essentials – NetAcad
-- Segurança em Redes – IFC
-- Docker e Containers – Fundamentos
-- Metrologia e Interpretação de Desenho Técnico
-- Operação de Empilhadeira
-- Operação de Ponte Rolante
-- Operação de Mini Pá Carregadeira
-
----
-
-# 📚 Atualmente estudando
-
-- Monitoramento com Prometheus e Grafana
-- Protocolos de roteamento dinâmico
-- Docker Swarm e Kubernetes
-- Integração Node.js com WebSocket
+*   🎓 Graduação em **Tecnologia em Redes de Computadores** – IFC Campus Brusque
+*   🌐 **CCNA:** Switching, Routing and Wireless Essentials – Cisco NetAcad
+*   🛡️ **Segurança em Redes** – IFC
+*   🐳 **Docker e Containers:** Fundamentos Práticos
+*   🛠️ **Metrologia e Interpretação de Desenho Técnico**
+*   🚜 **Habilitações Operacionais:** Operação de Empilhadeira, Ponte Rolante e Mini Pá Carregadeira
 
 ---
 
-# 🤝 Colaboração
-
-Interessado em colaborar em projetos relacionados a:
-
-- Segurança da Informação
-- Infraestrutura
-- Automação
-- IoT
-- Sistemas Web
+## 🚀 Aprendizado Contínuo (Atualmente Estudando)
+*   📈 Engenharia de Observabilidade avançada com Prometheus e Grafana.
+*   🗺️ Protocolos de roteamento dinâmico e arquiteturas de redes complexas.
+*   📦 Orquestração de microsserviços em escala com **Docker Swarm** e **Kubernetes**.
+*   🔌 Comunicação bidirecional em tempo real com **Node.js e WebSockets**.
 
 ---
 
-# 📫 Contato
+## 📊 Estatísticas do GitHub
 
-LinkedIn  
-https://linkedin.com/in/luís-rafael-9376351b6
-
-Email  
-luisrafael12074811@gmail.com
-
-WhatsApp  
-https://wa.me/5591992754632
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisrafael1207&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Luís Rafael" />
+</p>
 
 ---
 
 <p align="center">
-Obrigado por visitar meu perfil.
+  🤝 <b>Aberto a conexões e colaborações em Segurança da Informação, Infraestrutura, Automação e IoT!</b><br>
+  <i>Obrigado por visitar meu perfil técnico.</i>
 </p>
